@@ -1,7 +1,7 @@
 ### Привет, я Алексей! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
-### ✨&nbsp; About Me
+### ✨&nbsp; Обо мне
 Я Full Stack разработчик с основным фокусом на Frontend разработку. Мой путь в IT начинался с дизайна, поэтому мои знания включают в себя глубокое понимание UX, UI дизайна. 
 
 
